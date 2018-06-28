@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+
+
+.wrapper{
+    width: 700px;
+    margin: 0 auto;
+    background-color: bisque;
+}
+
+.wrapper ul{
+    font-size: 20px;
+    padding-left: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 10px;
+}
+
+.btnBack{
+    width:200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    height: 40px;
+    background-color:rgb(161, 82, 82);
+    margin: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+ }

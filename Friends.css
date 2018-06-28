@@ -1,0 +1,67 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+
+.wrapper{
+    margin:0 auto;
+    width: 500px;
+    background-color: bisque;
+}
+
+.wrapper ul{
+    font-size: 20px;
+    padding-left: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 10px;
+}
+
+.friends-heading{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+}
+
+.friends_text{
+    display: block;
+    margin:0 auto;
+    width:400px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: black;
+    
+
+}
+.list-heading{
+    padding-left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+}
+
+.clearBtn{
+    width: 400px;
+    height: 40px;
+    display: block;
+    margin: 0 auto;
+    color: black;
+    background-color:rgb(161, 82, 82);
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+}
+
+.billBtn{
+    width: 400px;
+    height: 40px;
+    display: block;
+    margin: 0 auto;
+    color: black;
+    background-color:rgb(161, 82, 82);
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+}
+
